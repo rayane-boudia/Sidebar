@@ -8,6 +8,7 @@
 .main_box{
     position: relative;
     background-image: url(/Sidebar/images/background.jpg);
+    background-position: center;
     background-size:cover;
     height: 100vh;
     width: 100%;
